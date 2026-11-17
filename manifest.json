@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "LoveSathi - Find Your True Love",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LoveSathi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LoveSathi",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/LoveSathi/"
+}
